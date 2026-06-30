@@ -1,0 +1,43 @@
+product_id,category_id,product_name,brand,unit_price,stock_quantity,is_active
+1,1,Wireless Earbuds,PrimeBrand,38419.69,12,True
+2,1,Smartphone,DailyNeeds,13509.16,52,True
+3,1,Laptop,Generic,5353.29,216,False
+4,1,Bluetooth Speaker,DailyNeeds,13235.48,258,True
+5,1,Smartwatch,EliteGoods,12050.43,279,True
+6,1,Power Bank,PrimeBrand,35417.55,3,True
+7,2,Cotton T-Shirt,PrimeBrand,2124.3,174,True
+8,2,Denim Jeans,EliteGoods,2875.88,172,True
+9,2,Running Shoes,Generic,379.57,176,True
+10,2,Jacket,EliteGoods,2215.95,274,True
+11,2,Formal Shirt,DailyNeeds,327.6,150,True
+12,2,Sneakers,TopChoice,2667.7,185,True
+13,3,Mixer Grinder,Generic,300.78,116,True
+14,3,Non-stick Pan,EliteGoods,2580.28,51,True
+15,3,LED Lamp,ValueCo,1943.12,186,True
+16,3,Pressure Cooker,TopChoice,706.78,136,True
+17,3,Bedsheet Set,PrimeBrand,1978.95,87,True
+18,3,Storage Box,TopChoice,573.03,194,True
+19,4,Fiction Novel,Generic,2095.36,112,True
+20,4,Self-Help Book,EliteGoods,763.47,16,True
+21,4,Cookbook,DailyNeeds,875.72,108,True
+22,4,Biography,EliteGoods,2641.34,161,True
+23,4,Comic Book,PrimeBrand,1246.73,234,True
+24,4,Notebook Set,TopChoice,814.47,287,True
+25,5,Yoga Mat,PrimeBrand,1794.88,298,True
+26,5,Dumbbell Set,Generic,2992.24,70,True
+27,5,Cricket Bat,PrimeBrand,2291.52,56,True
+28,5,Football,EliteGoods,2396.82,216,True
+29,5,Resistance Bands,DailyNeeds,1206.08,239,True
+30,5,Skipping Rope,Generic,2596.12,5,True
+31,6,Face Wash,TopChoice,2076.64,274,True
+32,6,Shampoo,EliteGoods,1085.85,150,True
+33,6,Moisturizer,PrimeBrand,108.41,134,True
+34,6,Lipstick,ValueCo,1571.78,54,True
+35,6,Perfume,PrimeBrand,2540.68,259,True
+36,6,Hair Dryer,DailyNeeds,1183.72,82,True
+37,7,Building Blocks,Generic,2763.55,165,True
+38,7,Remote Car,PrimeBrand,2794.32,157,True
+39,7,Board Game,EliteGoods,2646.11,40,True
+40,7,Puzzle Set,PrimeBrand,2466.28,272,True
+41,7,Action Figure,DailyNeeds,2012.94,281,True
+42,7,Soft Toy,DailyNeeds,2629.93,216,True

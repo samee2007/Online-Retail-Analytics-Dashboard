@@ -1,0 +1,221 @@
+order_id,customer_id,order_date,status,total_amount,discount_amount,shipping_city,shipping_state,payment_method
+1,80,2023-09-14 21:00:00,cancelled,6531.57,725.73,Chennai,Tamil Nadu,Cash on Delivery
+2,47,2023-05-15 02:00:00,delivered,7766.57,0.0,Hyderabad,Telangana,Net Banking
+3,104,2023-10-30 23:00:00,cancelled,41647.72,2191.99,Mumbai,Maharashtra,Net Banking
+4,2,2023-09-28 17:00:00,delivered,7975.73,419.78,Kochi,Kerala,Debit Card
+5,83,2023-03-06 20:00:00,cancelled,10852.32,0.0,Kolkata,West Bengal,Net Banking
+6,48,2024-03-05 18:00:00,pending,9188.63,483.61,Chennai,Tamil Nadu,UPI
+7,28,2024-03-30 14:00:00,delivered,12228.01,0.0,Ahmedabad,Gujarat,Credit Card
+8,85,2023-08-06 20:00:00,pending,26470.96,0.0,Kochi,Kerala,Debit Card
+9,9,2023-08-01 18:00:00,delivered,12355.92,0.0,Jaipur,Rajasthan,UPI
+10,103,2023-06-28 03:00:00,pending,379.57,0.0,Kochi,Kerala,UPI
+11,3,2023-06-28 08:00:00,delivered,3096.88,344.1,Pune,Maharashtra,Cash on Delivery
+12,76,2023-04-22 14:00:00,processing,20113.99,2234.89,Chennai,Tamil Nadu,Credit Card
+13,62,2024-02-16 13:00:00,pending,3094.67,0.0,Mumbai,Maharashtra,UPI
+14,78,2023-06-01 02:00:00,delivered,16775.35,882.91,Ahmedabad,Gujarat,Cash on Delivery
+15,78,2024-03-16 03:00:00,cancelled,7100.81,0.0,Kolkata,West Bengal,Net Banking
+16,114,2023-08-22 13:00:00,delivered,19603.44,0.0,Mumbai,Maharashtra,Credit Card
+17,12,2024-03-18 03:00:00,pending,39854.2,4428.24,Pune,Maharashtra,Net Banking
+18,112,2023-02-22 09:00:00,processing,11072.94,0.0,Pune,Maharashtra,Cash on Delivery
+19,48,2023-04-28 08:00:00,processing,9489.9,0.0,Kochi,Kerala,UPI
+20,4,2023-07-04 08:00:00,pending,82659.88,0.0,Chennai,Tamil Nadu,Credit Card
+21,96,2024-06-27 06:00:00,shipped,10965.09,0.0,Kochi,Kerala,Credit Card
+22,87,2023-03-25 08:00:00,shipped,13223.79,1469.31,Jaipur,Rajasthan,UPI
+23,6,2023-08-14 12:00:00,processing,38419.69,0.0,Delhi,Delhi,UPI
+24,38,2023-12-02 03:00:00,delivered,11763.43,1307.05,Chennai,Tamil Nadu,Net Banking
+25,3,2024-04-15 02:00:00,cancelled,14683.32,0.0,Pune,Maharashtra,Debit Card
+26,103,2024-04-16 22:00:00,delivered,2157.14,239.68,Kochi,Kerala,Net Banking
+27,68,2023-03-22 12:00:00,cancelled,9091.09,0.0,Pune,Maharashtra,UPI
+28,94,2023-06-01 07:00:00,delivered,2036.72,0.0,Delhi,Delhi,Net Banking
+29,60,2024-04-04 21:00:00,processing,11720.72,616.88,Kochi,Kerala,Credit Card
+30,46,2024-06-03 02:00:00,delivered,50876.16,5652.91,Kochi,Kerala,Cash on Delivery
+31,102,2023-02-12 14:00:00,cancelled,3800.17,422.24,Mumbai,Maharashtra,UPI
+32,92,2023-03-28 16:00:00,pending,16529.08,0.0,Pune,Maharashtra,UPI
+33,118,2023-10-17 12:00:00,shipped,20686.91,2298.55,Hyderabad,Telangana,UPI
+34,93,2023-06-03 10:00:00,delivered,5355.05,0.0,Kochi,Kerala,Credit Card
+35,40,2024-01-21 20:00:00,cancelled,70900.6,3731.61,Hyderabad,Telangana,Debit Card
+36,28,2023-12-16 15:00:00,delivered,2373.92,0.0,Pune,Maharashtra,Cash on Delivery
+37,17,2024-01-21 04:00:00,delivered,6973.11,367.01,Bangalore,Karnataka,Net Banking
+38,79,2023-10-19 23:00:00,cancelled,10571.99,1174.67,Jaipur,Rajasthan,Cash on Delivery
+39,54,2023-06-15 06:00:00,cancelled,29463.87,0.0,Jaipur,Rajasthan,Credit Card
+40,37,2023-03-27 05:00:00,delivered,69426.11,3654.01,Bangalore,Karnataka,Net Banking
+41,11,2024-01-19 07:00:00,delivered,9244.51,0.0,Ahmedabad,Gujarat,Net Banking
+42,79,2023-01-06 02:00:00,delivered,14465.93,0.0,Hyderabad,Telangana,Credit Card
+43,7,2023-09-02 13:00:00,pending,52356.45,2755.6,Kolkata,West Bengal,Credit Card
+44,79,2023-12-28 07:00:00,processing,92741.28,10304.59,Chennai,Tamil Nadu,Net Banking
+45,48,2023-09-17 23:00:00,delivered,34457.53,1813.55,Delhi,Delhi,Credit Card
+46,46,2023-12-13 20:00:00,delivered,11505.99,0.0,Pune,Maharashtra,UPI
+47,66,2024-02-12 17:00:00,shipped,13543.58,0.0,Pune,Maharashtra,Net Banking
+48,114,2024-02-14 23:00:00,shipped,13829.31,0.0,Jaipur,Rajasthan,UPI
+49,42,2023-04-16 02:00:00,delivered,7643.95,849.33,Chennai,Tamil Nadu,UPI
+50,79,2024-03-21 08:00:00,pending,27655.74,3072.86,Pune,Maharashtra,Cash on Delivery
+51,103,2023-06-13 00:00:00,delivered,49547.41,5505.27,Pune,Maharashtra,UPI
+52,57,2023-03-20 18:00:00,delivered,13274.99,1475.0,Jaipur,Rajasthan,Net Banking
+53,117,2023-05-01 08:00:00,cancelled,9677.18,0.0,Ahmedabad,Gujarat,Debit Card
+54,116,2024-03-31 02:00:00,cancelled,30859.54,0.0,Pune,Maharashtra,Cash on Delivery
+55,29,2023-05-05 06:00:00,cancelled,3456.64,181.93,Ahmedabad,Gujarat,Cash on Delivery
+56,17,2023-03-30 02:00:00,delivered,11042.46,581.18,Delhi,Delhi,Cash on Delivery
+57,82,2023-07-06 04:00:00,shipped,8196.26,431.38,Delhi,Delhi,Debit Card
+58,42,2023-08-19 11:00:00,processing,100487.62,0.0,Jaipur,Rajasthan,Debit Card
+59,76,2023-06-07 05:00:00,pending,40183.01,0.0,Kochi,Kerala,Net Banking
+60,80,2023-02-01 15:00:00,pending,7915.66,0.0,Delhi,Delhi,Net Banking
+61,54,2024-05-10 14:00:00,delivered,15520.74,816.88,Jaipur,Rajasthan,Cash on Delivery
+62,14,2023-11-23 07:00:00,shipped,1146.06,0.0,Mumbai,Maharashtra,Credit Card
+63,38,2024-01-29 19:00:00,shipped,2586.82,0.0,Ahmedabad,Gujarat,Cash on Delivery
+64,60,2024-05-25 09:00:00,shipped,57376.43,6375.16,Bangalore,Karnataka,Debit Card
+65,75,2023-12-28 01:00:00,delivered,9438.84,1048.76,Delhi,Delhi,UPI
+66,94,2024-01-10 12:00:00,delivered,2693.02,0.0,Pune,Maharashtra,Cash on Delivery
+67,37,2023-03-17 12:00:00,processing,12520.84,0.0,Kochi,Kerala,Cash on Delivery
+68,52,2024-05-27 01:00:00,delivered,1024.84,113.87,Jaipur,Rajasthan,Net Banking
+69,20,2024-06-11 04:00:00,delivered,14956.63,1661.85,Kochi,Kerala,UPI
+70,61,2023-01-18 11:00:00,delivered,6874.56,0.0,Kochi,Kerala,Net Banking
+71,34,2023-08-22 23:00:00,delivered,14581.03,0.0,Chennai,Tamil Nadu,Net Banking
+72,41,2024-03-04 04:00:00,shipped,6807.28,0.0,Delhi,Delhi,Cash on Delivery
+73,27,2023-11-29 21:00:00,shipped,18249.72,960.51,Kochi,Kerala,Net Banking
+74,25,2023-09-10 08:00:00,processing,10770.24,1196.69,Pune,Maharashtra,Cash on Delivery
+75,120,2023-10-08 09:00:00,delivered,15505.94,1722.88,Bangalore,Karnataka,Debit Card
+76,106,2023-10-05 17:00:00,pending,5245.48,0.0,Bangalore,Karnataka,Credit Card
+77,13,2024-02-28 10:00:00,pending,66117.2,3479.85,Hyderabad,Telangana,Credit Card
+78,117,2023-04-02 20:00:00,processing,6990.25,776.69,Ahmedabad,Gujarat,Debit Card
+79,120,2023-10-24 01:00:00,delivered,14184.99,1576.11,Delhi,Delhi,Cash on Delivery
+80,60,2023-10-07 06:00:00,cancelled,2020.63,224.51,Hyderabad,Telangana,Debit Card
+81,2,2023-12-12 09:00:00,processing,11440.14,602.11,Mumbai,Maharashtra,Net Banking
+82,86,2023-04-08 05:00:00,delivered,85050.7,0.0,Hyderabad,Telangana,UPI
+83,89,2023-08-30 01:00:00,pending,4673.02,519.22,Jaipur,Rajasthan,UPI
+84,89,2023-05-01 20:00:00,delivered,8437.11,937.46,Jaipur,Rajasthan,Net Banking
+85,97,2023-08-12 07:00:00,pending,2687.74,141.46,Mumbai,Maharashtra,Cash on Delivery
+86,15,2023-03-05 17:00:00,processing,6603.09,733.68,Mumbai,Maharashtra,Debit Card
+87,92,2024-05-15 02:00:00,processing,34342.78,0.0,Kolkata,West Bengal,UPI
+88,105,2023-01-04 23:00:00,delivered,10706.58,0.0,Jaipur,Rajasthan,Credit Card
+89,120,2023-03-12 15:00:00,delivered,12750.75,1416.75,Kolkata,West Bengal,Net Banking
+90,11,2023-05-17 20:00:00,cancelled,9984.81,0.0,Hyderabad,Telangana,Net Banking
+91,87,2024-03-10 17:00:00,shipped,6605.8,0.0,Chennai,Tamil Nadu,Net Banking
+92,79,2023-01-17 07:00:00,delivered,5735.61,637.29,Kochi,Kerala,Credit Card
+93,32,2023-02-15 12:00:00,shipped,10281.52,0.0,Kochi,Kerala,UPI
+94,74,2023-11-25 07:00:00,delivered,7029.8,0.0,Kolkata,West Bengal,Cash on Delivery
+95,64,2023-02-18 11:00:00,pending,10573.52,0.0,Ahmedabad,Gujarat,Credit Card
+96,72,2024-02-27 13:00:00,processing,4791.29,0.0,Ahmedabad,Gujarat,UPI
+97,12,2023-07-15 01:00:00,delivered,31302.64,1647.51,Chennai,Tamil Nadu,Debit Card
+98,120,2023-07-14 23:00:00,delivered,17538.02,923.05,Hyderabad,Telangana,UPI
+99,47,2024-06-09 15:00:00,shipped,3945.62,207.66,Pune,Maharashtra,Net Banking
+100,6,2023-08-15 23:00:00,delivered,4808.85,534.32,Hyderabad,Telangana,Debit Card
+101,26,2023-12-04 07:00:00,shipped,4622.72,513.64,Ahmedabad,Gujarat,Net Banking
+102,22,2023-12-27 05:00:00,delivered,39263.57,0.0,Mumbai,Maharashtra,Debit Card
+103,2,2023-08-12 16:00:00,shipped,43954.35,0.0,Jaipur,Rajasthan,Cash on Delivery
+104,53,2023-01-13 00:00:00,processing,25959.67,0.0,Jaipur,Rajasthan,Debit Card
+105,31,2023-07-16 19:00:00,processing,11312.21,0.0,Hyderabad,Telangana,Credit Card
+106,84,2023-02-02 02:00:00,shipped,31738.47,1670.45,Kochi,Kerala,Credit Card
+107,115,2024-06-24 01:00:00,delivered,6927.63,364.61,Jaipur,Rajasthan,Cash on Delivery
+108,85,2023-02-03 05:00:00,cancelled,22231.99,0.0,Kochi,Kerala,Net Banking
+109,87,2023-12-06 12:00:00,cancelled,95724.95,10636.11,Bangalore,Karnataka,Credit Card
+110,44,2024-02-11 10:00:00,delivered,5297.14,588.57,Mumbai,Maharashtra,Cash on Delivery
+111,38,2023-09-10 22:00:00,delivered,544.38,0.0,Kolkata,West Bengal,UPI
+112,47,2023-04-20 02:00:00,delivered,2798.38,310.93,Mumbai,Maharashtra,Credit Card
+113,12,2023-12-29 17:00:00,delivered,42353.09,0.0,Kolkata,West Bengal,Debit Card
+114,18,2023-10-03 09:00:00,delivered,29004.62,3222.74,Kochi,Kerala,Cash on Delivery
+115,26,2024-04-13 03:00:00,delivered,120199.92,0.0,Hyderabad,Telangana,UPI
+116,78,2023-07-25 15:00:00,delivered,6587.9,731.99,Kochi,Kerala,Debit Card
+117,42,2024-01-21 08:00:00,cancelled,13791.44,0.0,Ahmedabad,Gujarat,UPI
+118,107,2023-03-12 13:00:00,pending,4030.47,447.83,Kochi,Kerala,Net Banking
+119,69,2024-06-02 22:00:00,shipped,2199.07,0.0,Mumbai,Maharashtra,Debit Card
+120,85,2023-12-30 05:00:00,pending,6342.34,704.71,Pune,Maharashtra,Net Banking
+121,14,2023-01-11 03:00:00,delivered,4536.51,0.0,Ahmedabad,Gujarat,UPI
+122,51,2024-04-19 21:00:00,processing,28160.86,0.0,Mumbai,Maharashtra,Debit Card
+123,45,2023-11-16 10:00:00,shipped,4463.27,495.92,Pune,Maharashtra,Credit Card
+124,39,2023-02-15 22:00:00,delivered,7924.02,0.0,Bangalore,Karnataka,Cash on Delivery
+125,23,2023-06-13 10:00:00,processing,14947.33,0.0,Ahmedabad,Gujarat,Cash on Delivery
+126,55,2024-02-03 00:00:00,pending,9459.93,0.0,Pune,Maharashtra,UPI
+127,26,2024-04-13 03:00:00,delivered,12355.83,0.0,Hyderabad,Telangana,Cash on Delivery
+128,76,2023-03-28 21:00:00,delivered,4288.08,476.45,Kolkata,West Bengal,Cash on Delivery
+129,18,2024-01-28 13:00:00,delivered,18818.74,0.0,Pune,Maharashtra,Credit Card
+130,63,2023-05-20 06:00:00,cancelled,11885.3,0.0,Kochi,Kerala,Credit Card
+131,102,2023-08-14 09:00:00,delivered,12096.35,0.0,Kochi,Kerala,Credit Card
+132,35,2024-01-11 17:00:00,cancelled,3256.42,361.82,Mumbai,Maharashtra,Debit Card
+133,39,2023-02-03 14:00:00,delivered,42571.45,4730.16,Delhi,Delhi,Cash on Delivery
+134,18,2023-07-31 06:00:00,cancelled,4725.67,248.72,Kochi,Kerala,Cash on Delivery
+135,22,2023-11-28 22:00:00,delivered,8943.44,0.0,Delhi,Delhi,Debit Card
+136,19,2023-11-26 07:00:00,cancelled,15859.95,1762.22,Jaipur,Rajasthan,UPI
+137,89,2024-01-13 14:00:00,shipped,212186.67,0.0,Jaipur,Rajasthan,Net Banking
+138,28,2024-03-15 06:00:00,shipped,9532.95,0.0,Chennai,Tamil Nadu,Credit Card
+139,81,2024-04-15 00:00:00,delivered,3352.48,0.0,Hyderabad,Telangana,Debit Card
+140,112,2023-10-08 02:00:00,pending,39756.05,2092.42,Bangalore,Karnataka,Net Banking
+141,84,2023-04-04 22:00:00,delivered,5160.56,0.0,Kochi,Kerala,Debit Card
+142,67,2024-03-31 00:00:00,delivered,8351.37,0.0,Mumbai,Maharashtra,UPI
+143,48,2023-11-03 04:00:00,shipped,9014.79,0.0,Ahmedabad,Gujarat,UPI
+144,93,2023-08-07 20:00:00,pending,8997.11,0.0,Delhi,Delhi,Credit Card
+145,76,2024-01-29 11:00:00,shipped,3155.89,166.1,Chennai,Tamil Nadu,UPI
+146,27,2024-06-14 19:00:00,processing,9870.58,1096.73,Mumbai,Maharashtra,Debit Card
+147,64,2023-03-14 16:00:00,delivered,7707.3,856.37,Mumbai,Maharashtra,Credit Card
+148,76,2023-03-11 00:00:00,delivered,28922.62,3213.62,Kolkata,West Bengal,Net Banking
+149,11,2023-06-06 08:00:00,delivered,38661.49,0.0,Hyderabad,Telangana,Net Banking
+150,94,2023-09-02 01:00:00,delivered,2276.98,0.0,Hyderabad,Telangana,Debit Card
+151,16,2023-01-13 22:00:00,delivered,622.44,32.76,Delhi,Delhi,UPI
+152,17,2023-10-03 23:00:00,delivered,5282.68,0.0,Hyderabad,Telangana,Cash on Delivery
+153,81,2023-03-20 15:00:00,shipped,16808.53,0.0,Bangalore,Karnataka,Cash on Delivery
+154,1,2023-02-15 00:00:00,delivered,3945.62,0.0,Delhi,Delhi,Credit Card
+155,71,2024-03-05 07:00:00,delivered,7210.2,0.0,Jaipur,Rajasthan,Credit Card
+156,23,2023-08-17 16:00:00,delivered,32640.7,1717.93,Kochi,Kerala,Debit Card
+157,60,2024-01-13 18:00:00,shipped,3954.24,0.0,Jaipur,Rajasthan,UPI
+158,82,2023-01-10 10:00:00,delivered,10310.69,0.0,Bangalore,Karnataka,Cash on Delivery
+159,53,2024-01-17 14:00:00,pending,2514.89,0.0,Kolkata,West Bengal,Credit Card
+160,76,2023-03-05 13:00:00,pending,4726.89,248.78,Pune,Maharashtra,Net Banking
+161,35,2023-08-28 02:00:00,delivered,4331.17,481.24,Pune,Maharashtra,Net Banking
+162,16,2024-01-02 06:00:00,shipped,15866.46,0.0,Bangalore,Karnataka,UPI
+163,19,2023-04-04 22:00:00,delivered,19590.53,2176.72,Jaipur,Rajasthan,Cash on Delivery
+164,32,2023-04-07 14:00:00,delivered,37166.01,4129.56,Pune,Maharashtra,Credit Card
+165,75,2023-09-23 02:00:00,delivered,857.22,0.0,Mumbai,Maharashtra,UPI
+166,16,2023-02-13 14:00:00,delivered,11402.78,1266.98,Kolkata,West Bengal,Debit Card
+167,46,2023-08-08 05:00:00,delivered,23367.73,2596.41,Kolkata,West Bengal,Cash on Delivery
+168,62,2023-03-04 02:00:00,delivered,13951.21,1550.13,Jaipur,Rajasthan,Net Banking
+169,45,2024-05-29 10:00:00,shipped,21226.98,1117.21,Kochi,Kerala,Debit Card
+170,21,2023-04-13 07:00:00,pending,3605.13,400.57,Pune,Maharashtra,Debit Card
+171,23,2023-08-31 18:00:00,delivered,19842.93,1044.37,Delhi,Delhi,Net Banking
+172,5,2023-04-03 01:00:00,delivered,29847.52,0.0,Delhi,Delhi,UPI
+173,92,2023-07-01 10:00:00,delivered,5650.67,0.0,Mumbai,Maharashtra,Cash on Delivery
+174,111,2024-01-09 02:00:00,delivered,12523.35,659.12,Delhi,Delhi,Cash on Delivery
+175,89,2024-01-01 07:00:00,pending,6103.88,0.0,Chennai,Tamil Nadu,Cash on Delivery
+176,51,2023-02-03 05:00:00,processing,14707.08,0.0,Bangalore,Karnataka,UPI
+177,41,2023-06-21 20:00:00,delivered,120423.05,0.0,Chennai,Tamil Nadu,Credit Card
+178,50,2024-03-24 23:00:00,shipped,7677.71,0.0,Ahmedabad,Gujarat,Cash on Delivery
+179,84,2023-08-19 05:00:00,shipped,10171.25,535.33,Hyderabad,Telangana,Credit Card
+180,10,2023-12-17 05:00:00,shipped,13721.82,1524.65,Chennai,Tamil Nadu,Net Banking
+181,84,2023-06-18 19:00:00,shipped,27064.59,1424.45,Hyderabad,Telangana,UPI
+182,31,2023-04-09 01:00:00,shipped,105970.67,0.0,Chennai,Tamil Nadu,Debit Card
+183,22,2023-10-26 02:00:00,shipped,1305.53,145.06,Hyderabad,Telangana,Credit Card
+184,83,2024-02-01 05:00:00,delivered,24148.84,0.0,Mumbai,Maharashtra,Credit Card
+185,86,2023-12-19 17:00:00,shipped,23359.1,2595.46,Kochi,Kerala,Debit Card
+186,61,2023-11-03 02:00:00,shipped,292.71,0.0,Mumbai,Maharashtra,Net Banking
+187,23,2023-06-21 06:00:00,cancelled,16016.02,0.0,Delhi,Delhi,Cash on Delivery
+188,34,2023-11-24 23:00:00,cancelled,57376.43,6375.16,Jaipur,Rajasthan,UPI
+189,110,2023-10-10 16:00:00,shipped,5993.06,665.9,Mumbai,Maharashtra,Net Banking
+190,20,2023-06-01 18:00:00,processing,6054.25,318.65,Jaipur,Rajasthan,UPI
+191,113,2024-02-25 08:00:00,shipped,24582.23,2731.36,Chennai,Tamil Nadu,Net Banking
+192,114,2023-12-06 22:00:00,delivered,4153.28,0.0,Pune,Maharashtra,UPI
+193,40,2023-10-15 15:00:00,cancelled,1748.81,194.31,Pune,Maharashtra,UPI
+194,94,2024-03-02 19:00:00,pending,541.4,60.16,Ahmedabad,Gujarat,Cash on Delivery
+195,112,2024-01-18 01:00:00,processing,34063.1,0.0,Delhi,Delhi,Debit Card
+196,113,2023-07-25 01:00:00,delivered,2596.12,0.0,Hyderabad,Telangana,UPI
+197,106,2024-04-20 16:00:00,shipped,12158.24,1350.92,Kochi,Kerala,Net Banking
+198,23,2024-04-30 18:00:00,processing,5386.76,0.0,Delhi,Delhi,Cash on Delivery
+199,100,2023-08-08 07:00:00,pending,9072.89,0.0,Ahmedabad,Gujarat,Debit Card
+200,83,2023-06-27 19:00:00,cancelled,3322.74,174.88,Hyderabad,Telangana,Net Banking
+201,115,2024-01-21 11:00:00,shipped,16656.11,0.0,Jaipur,Rajasthan,UPI
+202,72,2023-10-17 09:00:00,pending,1972.81,103.83,Pune,Maharashtra,UPI
+203,34,2023-11-02 06:00:00,delivered,26998.7,0.0,Chennai,Tamil Nadu,Net Banking
+204,38,2023-09-23 13:00:00,shipped,24512.24,1290.12,Jaipur,Rajasthan,UPI
+205,109,2023-06-24 21:00:00,processing,10563.62,0.0,Pune,Maharashtra,Credit Card
+206,29,2023-12-30 07:00:00,pending,9917.03,0.0,Kochi,Kerala,Cash on Delivery
+207,80,2023-03-14 15:00:00,delivered,4846.18,538.46,Chennai,Tamil Nadu,Debit Card
+208,18,2023-07-25 10:00:00,shipped,42310.53,4701.17,Hyderabad,Telangana,Debit Card
+209,98,2023-06-22 18:00:00,cancelled,55068.39,6118.71,Kolkata,West Bengal,Net Banking
+210,62,2024-01-28 00:00:00,delivered,39885.74,0.0,Bangalore,Karnataka,Debit Card
+211,89,2023-12-19 09:00:00,delivered,4603.87,242.31,Delhi,Delhi,Credit Card
+212,106,2023-02-16 09:00:00,delivered,17302.61,0.0,Bangalore,Karnataka,Debit Card
+213,94,2023-05-15 06:00:00,pending,8382.96,0.0,Pune,Maharashtra,Credit Card
+214,49,2023-09-19 17:00:00,processing,2249.19,0.0,Chennai,Tamil Nadu,Credit Card
+215,89,2023-04-29 13:00:00,shipped,15081.08,1675.68,Mumbai,Maharashtra,Cash on Delivery
+216,35,2023-05-21 13:00:00,cancelled,292.71,0.0,Hyderabad,Telangana,Credit Card
+217,101,2023-04-19 15:00:00,delivered,6135.59,322.93,Delhi,Delhi,Credit Card
+218,71,2024-05-23 06:00:00,pending,149063.87,0.0,Hyderabad,Telangana,Debit Card
+219,59,2023-10-31 08:00:00,shipped,2018.08,106.22,Pune,Maharashtra,UPI
+220,55,2023-04-29 03:00:00,cancelled,32656.74,0.0,Pune,Maharashtra,UPI

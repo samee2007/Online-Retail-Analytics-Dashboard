@@ -1,0 +1,121 @@
+customer_id,customer_name,email,phone,city,state,gender,age,signup_date,is_active
+1,Kavya Reddy,kavya.reddy1@example.com,9528414718,Pune,Maharashtra,Female,51,2024-04-07,True
+2,Rohit Kumar,rohit.kumar2@example.com,9463016614,Chennai,Tamil Nadu,Other,53,2023-08-24,True
+3,Priya Kumar,priya.kumar3@example.com,9860038427,Chennai,Tamil Nadu,Male,22,2023-02-02,True
+4,Anita Rao,anita.rao4@example.com,9355555531,Hyderabad,Telangana,Other,49,2023-08-08,True
+5,Deepa Menon,deepa.menon5@example.com,9607526654,Bangalore,Karnataka,Female,44,2023-07-14,True
+6,Manoj Iyer,manoj.iyer6@example.com,9554814084,Kolkata,West Bengal,Female,64,2023-02-25,True
+7,Vikram Sharma,vikram.sharma7@example.com,9532311310,Pune,Maharashtra,Male,33,2023-07-16,True
+8,Lakshmi Patel,lakshmi.patel8@example.com,9552991960,Delhi,Delhi,Female,47,2023-09-13,True
+9,Anita Gupta,anita.gupta9@example.com,9967607278,Jaipur,Rajasthan,Male,21,2023-01-16,True
+10,Rohit Patel,rohit.patel10@example.com,9536383774,Ahmedabad,Gujarat,Female,31,2024-02-15,True
+11,Arjun Nair,arjun.nair11@example.com,9102314313,Kolkata,West Bengal,Female,47,2023-10-20,True
+12,Arvind Gupta,arvind.gupta12@example.com,9266211829,Bangalore,Karnataka,Female,31,2023-03-01,True
+13,Arvind Sharma,arvind.sharma13@example.com,9903132646,Pune,Maharashtra,Male,21,2024-05-03,True
+14,Nisha Patel,nisha.patel14@example.com,9161073976,Jaipur,Rajasthan,Male,29,2023-03-12,True
+15,Rohit Nair,rohit.nair15@example.com,9228727266,Kochi,Kerala,Male,55,2023-02-10,True
+16,Manoj Menon,manoj.menon16@example.com,9706907788,Jaipur,Rajasthan,Female,34,2023-07-29,True
+17,Divya Singh,divya.singh17@example.com,9385201412,Kolkata,West Bengal,Male,60,2023-11-04,True
+18,Anita Sharma,anita.sharma18@example.com,9592080329,Kochi,Kerala,Other,24,2023-03-17,True
+19,Nisha Reddy,nisha.reddy19@example.com,9242224154,Pune,Maharashtra,Male,33,2024-01-14,True
+20,Lakshmi Rao,lakshmi.rao20@example.com,9855420240,Hyderabad,Telangana,Other,59,2023-01-09,True
+21,Arvind Reddy,arvind.reddy21@example.com,9812308209,Mumbai,Maharashtra,Male,34,2023-04-29,True
+22,Arvind Patel,arvind.patel22@example.com,9392431670,Hyderabad,Telangana,Other,31,2023-12-18,True
+23,Meera Rao,meera.rao23@example.com,9624557080,Hyderabad,Telangana,Male,23,2024-03-09,True
+24,Rajan Sharma,rajan.sharma24@example.com,9458153605,Delhi,Delhi,Other,34,2023-06-15,True
+25,Arvind Nair,arvind.nair25@example.com,9702269164,Chennai,Tamil Nadu,Male,22,2023-06-02,True
+26,Karthik Menon,karthik.menon26@example.com,9693269304,Delhi,Delhi,Female,26,2023-02-12,True
+27,Rajan Iyer,rajan.iyer27@example.com,9325567963,Bangalore,Karnataka,Other,24,2023-12-29,True
+28,Manoj Menon,manoj.menon28@example.com,9904745462,Delhi,Delhi,Male,28,2023-07-01,True
+29,Priya Patel,priya.patel29@example.com,9890880074,Pune,Maharashtra,Female,60,2023-09-12,True
+30,Vikram Nair,vikram.nair30@example.com,9141580226,Ahmedabad,Gujarat,Male,30,2024-04-16,True
+31,Rohit Singh,rohit.singh31@example.com,9125409494,Bangalore,Karnataka,Female,39,2023-10-13,True
+32,Meera Iyer,meera.iyer32@example.com,9788785773,Jaipur,Rajasthan,Female,61,2023-12-06,True
+33,Vikram Reddy,vikram.reddy33@example.com,9291735734,Kochi,Kerala,Female,20,2023-04-22,True
+34,Karthik Iyer,karthik.iyer34@example.com,9568574364,Kochi,Kerala,Other,25,2024-01-30,True
+35,Kavya Reddy,kavya.reddy35@example.com,9147659674,Kolkata,West Bengal,Male,51,2023-07-21,True
+36,Anita Iyer,anita.iyer36@example.com,9769108025,Pune,Maharashtra,Other,25,2023-11-04,True
+37,Manoj Iyer,manoj.iyer37@example.com,9532074125,Hyderabad,Telangana,Other,26,2023-07-16,True
+38,Pooja Patel,pooja.patel38@example.com,9760904107,Kochi,Kerala,Female,43,2023-01-01,True
+39,Kavya Nair,kavya.nair39@example.com,9943702118,Kochi,Kerala,Other,59,2023-11-26,True
+40,Lakshmi Singh,lakshmi.singh40@example.com,9648868899,Ahmedabad,Gujarat,Other,28,2023-03-28,True
+41,Vivek Iyer,vivek.iyer41@example.com,9200273738,Bangalore,Karnataka,Other,37,2023-08-19,True
+42,Sneha Sharma,sneha.sharma42@example.com,9149621604,Bangalore,Karnataka,Female,57,2023-03-16,True
+43,Deepa Singh,deepa.singh43@example.com,9871318048,Kolkata,West Bengal,Female,43,2023-09-07,True
+44,Priya Kumar,priya.kumar44@example.com,9935822550,Kolkata,West Bengal,Male,29,2024-06-14,True
+45,Arvind Singh,arvind.singh45@example.com,9230307805,Ahmedabad,Gujarat,Male,47,2023-11-21,True
+46,Lakshmi Menon,lakshmi.menon46@example.com,9975106572,Jaipur,Rajasthan,Female,53,2024-04-01,True
+47,Sanjay Gupta,sanjay.gupta47@example.com,9378304807,Bangalore,Karnataka,Other,35,2024-06-17,True
+48,Rohit Reddy,rohit.reddy48@example.com,9572309605,Mumbai,Maharashtra,Other,36,2023-08-29,True
+49,Divya Rao,divya.rao49@example.com,9186519602,Delhi,Delhi,Male,32,2024-01-28,True
+50,Kavya Kumar,kavya.kumar50@example.com,9545461013,Kolkata,West Bengal,Female,52,2024-04-22,True
+51,Kavya Nair,kavya.nair51@example.com,9518197538,Kochi,Kerala,Other,19,2024-01-25,True
+52,Karthik Reddy,karthik.reddy52@example.com,9909037759,Kolkata,West Bengal,Female,52,2023-08-14,True
+53,Meera Nair,meera.nair53@example.com,9621454127,Chennai,Tamil Nadu,Female,39,2024-02-19,True
+54,Lakshmi Patel,lakshmi.patel54@example.com,9768143326,Jaipur,Rajasthan,Male,43,2023-01-28,True
+55,Manoj Patel,manoj.patel55@example.com,9595744935,Delhi,Delhi,Male,34,2024-01-24,True
+56,Lakshmi Iyer,lakshmi.iyer56@example.com,9462388455,Kolkata,West Bengal,Female,44,2023-09-16,True
+57,Sanjay Sharma,sanjay.sharma57@example.com,9904258674,Jaipur,Rajasthan,Male,40,2023-08-18,True
+58,Rajan Sharma,rajan.sharma58@example.com,9365518424,Bangalore,Karnataka,Male,57,2023-06-06,True
+59,Sanjay Kumar,sanjay.kumar59@example.com,9705557720,Bangalore,Karnataka,Female,62,2023-09-20,True
+60,Arjun Menon,arjun.menon60@example.com,9752027025,Mumbai,Maharashtra,Male,37,2023-04-21,True
+61,Suresh Menon,suresh.menon61@example.com,9827296111,Kolkata,West Bengal,Female,63,2023-07-23,False
+62,Rohit Kumar,rohit.kumar62@example.com,9848605284,Hyderabad,Telangana,Other,56,2023-05-04,True
+63,Deepa Sharma,deepa.sharma63@example.com,9472807202,Jaipur,Rajasthan,Female,60,2024-01-15,False
+64,Divya Sharma,divya.sharma64@example.com,9551034639,Ahmedabad,Gujarat,Male,45,2024-01-06,True
+65,Lakshmi Patel,lakshmi.patel65@example.com,9567600762,Delhi,Delhi,Other,51,2023-10-04,True
+66,Arvind Gupta,arvind.gupta66@example.com,9599154414,Kolkata,West Bengal,Other,55,2023-10-02,True
+67,Rohit Kumar,rohit.kumar67@example.com,9399496923,Ahmedabad,Gujarat,Male,47,2024-01-24,True
+68,Sanjay Iyer,sanjay.iyer68@example.com,9295249057,Ahmedabad,Gujarat,Male,40,2023-09-22,True
+69,Vivek Reddy,vivek.reddy69@example.com,9696776072,Chennai,Tamil Nadu,Other,30,2023-03-29,True
+70,Manoj Gupta,manoj.gupta70@example.com,9696115913,Bangalore,Karnataka,Other,48,2024-05-17,True
+71,Priya Kumar,priya.kumar71@example.com,9415933049,Bangalore,Karnataka,Female,62,2023-09-07,True
+72,Deepa Iyer,deepa.iyer72@example.com,9608159580,Jaipur,Rajasthan,Other,40,2024-03-11,True
+73,Arvind Iyer,arvind.iyer73@example.com,9477753674,Ahmedabad,Gujarat,Female,37,2023-09-15,True
+74,Kavya Iyer,kavya.iyer74@example.com,9228370927,Jaipur,Rajasthan,Other,29,2023-07-16,True
+75,Sanjay Reddy,sanjay.reddy75@example.com,9878017216,Kochi,Kerala,Other,56,2023-10-17,True
+76,Kavya Reddy,kavya.reddy76@example.com,9344258191,Pune,Maharashtra,Male,37,2023-01-15,True
+77,Sneha Reddy,sneha.reddy77@example.com,9148872110,Chennai,Tamil Nadu,Other,36,2023-05-10,True
+78,Sanjay Kumar,sanjay.kumar78@example.com,9113169872,Kochi,Kerala,Female,48,2024-05-05,True
+79,Arjun Sharma,arjun.sharma79@example.com,9371096600,Ahmedabad,Gujarat,Male,22,2024-02-15,True
+80,Deepa Sharma,deepa.sharma80@example.com,9262915636,Delhi,Delhi,Other,37,2023-03-29,True
+81,Vikram Rao,vikram.rao81@example.com,9920814900,Kolkata,West Bengal,Other,56,2023-08-20,True
+82,Pooja Gupta,pooja.gupta82@example.com,9575368059,Hyderabad,Telangana,Other,45,2023-11-09,True
+83,Rajan Menon,rajan.menon83@example.com,9894664845,Mumbai,Maharashtra,Male,58,2023-08-05,True
+84,Anita Patel,anita.patel84@example.com,9357553274,Delhi,Delhi,Other,22,2023-06-10,False
+85,Lakshmi Menon,lakshmi.menon85@example.com,9604564682,Hyderabad,Telangana,Male,32,2023-10-23,True
+86,Lakshmi Kumar,lakshmi.kumar86@example.com,9838073939,Bangalore,Karnataka,Female,58,2023-07-22,True
+87,Arvind Singh,arvind.singh87@example.com,9795392488,Delhi,Delhi,Female,27,2023-03-15,False
+88,Suresh Menon,suresh.menon88@example.com,9904187231,Kochi,Kerala,Female,46,2023-05-08,True
+89,Suresh Nair,suresh.nair89@example.com,9392322121,Jaipur,Rajasthan,Other,49,2024-03-24,True
+90,Rajan Nair,rajan.nair90@example.com,9888699799,Pune,Maharashtra,Other,34,2023-01-27,True
+91,Deepa Menon,deepa.menon91@example.com,9122275263,Hyderabad,Telangana,Other,20,2023-06-29,True
+92,Lakshmi Reddy,lakshmi.reddy92@example.com,9294872482,Kochi,Kerala,Female,58,2024-05-18,True
+93,Sanjay Iyer,sanjay.iyer93@example.com,9538460431,Pune,Maharashtra,Female,60,2023-04-18,True
+94,Divya Nair,divya.nair94@example.com,9844826434,Ahmedabad,Gujarat,Female,60,2024-02-15,True
+95,Arvind Sharma,arvind.sharma95@example.com,9588365604,Mumbai,Maharashtra,Female,34,2023-11-28,True
+96,Pooja Rao,pooja.rao96@example.com,9985758835,Chennai,Tamil Nadu,Other,52,2024-04-18,True
+97,Kavya Rao,kavya.rao97@example.com,9488457631,Kochi,Kerala,Female,58,2024-03-28,True
+98,Kavya Reddy,kavya.reddy98@example.com,9689720101,Delhi,Delhi,Female,46,2024-05-11,True
+99,Vivek Singh,vivek.singh99@example.com,9862123506,Delhi,Delhi,Female,53,2023-01-15,True
+100,Anita Singh,anita.singh100@example.com,9221827951,Ahmedabad,Gujarat,Male,59,2023-06-07,True
+101,Suresh Rao,suresh.rao101@example.com,9857429971,Hyderabad,Telangana,Female,48,2024-04-28,True
+102,Arvind Patel,arvind.patel102@example.com,9511872350,Bangalore,Karnataka,Other,50,2023-05-20,True
+103,Meera Nair,meera.nair103@example.com,9464938258,Jaipur,Rajasthan,Female,18,2023-10-17,True
+104,Deepa Menon,deepa.menon104@example.com,9808605988,Ahmedabad,Gujarat,Male,46,2024-05-10,True
+105,Arvind Rao,arvind.rao105@example.com,9505026213,Ahmedabad,Gujarat,Female,30,2023-09-02,True
+106,Rohit Nair,rohit.nair106@example.com,9146865930,Pune,Maharashtra,Other,48,2024-01-26,True
+107,Sneha Gupta,sneha.gupta107@example.com,9139749508,Delhi,Delhi,Other,55,2023-12-06,True
+108,Lakshmi Kumar,lakshmi.kumar108@example.com,9664735673,Ahmedabad,Gujarat,Male,64,2023-05-28,True
+109,Sneha Kumar,sneha.kumar109@example.com,9604111692,Hyderabad,Telangana,Female,57,2024-02-12,True
+110,Divya Rao,divya.rao110@example.com,9508031980,Pune,Maharashtra,Other,63,2024-05-14,True
+111,Rajan Menon,rajan.menon111@example.com,9173466219,Bangalore,Karnataka,Other,61,2023-10-22,True
+112,Anita Nair,anita.nair112@example.com,9205702499,Mumbai,Maharashtra,Female,28,2023-11-03,True
+113,Rajan Iyer,rajan.iyer113@example.com,9954852540,Chennai,Tamil Nadu,Female,40,2024-01-19,True
+114,Rohit Rao,rohit.rao114@example.com,9542437192,Kochi,Kerala,Other,29,2023-06-24,True
+115,Vivek Nair,vivek.nair115@example.com,9765408938,Bangalore,Karnataka,Female,55,2023-05-27,True
+116,Meera Gupta,meera.gupta116@example.com,9374154962,Chennai,Tamil Nadu,Female,36,2023-06-11,False
+117,Karthik Menon,karthik.menon117@example.com,9421214426,Kolkata,West Bengal,Other,34,2024-04-12,True
+118,Kavya Nair,kavya.nair118@example.com,9618840705,Mumbai,Maharashtra,Male,42,2024-01-03,True
+119,Suresh Sharma,suresh.sharma119@example.com,9991246046,Kolkata,West Bengal,Female,18,2023-02-20,True
+120,Sanjay Reddy,sanjay.reddy120@example.com,9932945529,Bangalore,Karnataka,Other,40,2023-08-13,True
